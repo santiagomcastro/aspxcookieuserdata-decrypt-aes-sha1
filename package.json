@@ -1,0 +1,38 @@
+{
+  "name": "aspxcookieuserdata-decrypt-aes-sha1",
+  "version": "1.0.0",
+  "description": "Package to describe the json user data of a cookie created with FormsAuthentication in .NET encrypted with aes-192-cbc and validated with sha1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagomcastro/aspxcookieuserdata-decrypt-aes-sha1"
+  },
+  "keywords": [
+    "\".NET\"",
+    "\"Decrypt\"",
+    "\"FormsAuthentication\"",
+    "\"Node.js\"",
+    "\"cookie\"",
+    "\"json\"",
+    "\"aes\"",
+    "\"sha1\""
+  ],
+  "author": {
+    "name": "Santiago Matias Castro",
+    "email": "castrosantiagomatias@gmail.com",
+    "url": "https://github.com/santiagomcastro"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagomcastro/aspxcookieuserdata-decrypt-aes-sha1/issues",
+    "email": "castrosantiagomatias@gmail.com"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1"
+  }
+}
