@@ -1,6 +1,6 @@
 {
   "name": "aspxcookieuserdata-decrypt-aes-sha1",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Package to describe the json user data of a cookie created with FormsAuthentication in .NET encrypted with aes-192-cbc and validated with sha1",
   "main": "src/index.js",
   "scripts": {
